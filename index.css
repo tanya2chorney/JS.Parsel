@@ -1,0 +1,19 @@
+#form {
+  background-color: #5d8aa8;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 200px;
+  padding: 20px;
+}
+
+#submit {
+  margin-top: 10px;
+  background-color: #a37a5b;
+  border: none;
+  color: aliceblue;
+}
+.custom-notification {
+  background-color: #549184;
+  color: white;
+}
